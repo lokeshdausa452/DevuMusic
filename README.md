@@ -28,7 +28,7 @@
 
 <h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
 <p align="center">
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
+<a href="https://t.me/DAUSA_123"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
 
 
 <p align="center">
@@ -41,8 +41,8 @@
 
 
 <h6><b><i><u>Here Devu Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<p><a href='https://t.me/kalam_se'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
+<a href="https://t.me/DAUSA_123"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
-<p><code>##This Project Under</code> <pre> <a href="https://t.me/SILENT_DEVS"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
+<p><code>##This Project Under</code> <pre> <a href="https://t.me/kalam_kranti"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
